@@ -1,0 +1,12 @@
+# Required packages
+langchain==0.1.12
+langchain-community==0.0.28
+langchain-core==0.1.32
+langchain-openai==0.0.8
+langsmith==0.1.27
+langchain-text-splitters==0.0.1
+mysql-connector-python==8.3.0
+pyngrok==7.0.5
+Flask==3.0.0
+Flask-Cors==4.0.0
+asgiref==3.7.2
